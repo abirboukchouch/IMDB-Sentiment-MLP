@@ -40,4 +40,4 @@ The model achieves approximately 78% accuracy using only lexicon-based sentiment
 Performance is limited because the model does not use contextual embeddings such as Word2Vec or BERT. Future improvements could include TF-IDF or deep learning language models.
 
 ## Author
-abir boukchouch
+Abir Boukchouch
