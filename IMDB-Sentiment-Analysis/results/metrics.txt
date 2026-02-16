@@ -1,5 +1,3 @@
-Manual MLP 
-
 Test Accuracy: 0.7690833921548855
 
 Classification Report:
