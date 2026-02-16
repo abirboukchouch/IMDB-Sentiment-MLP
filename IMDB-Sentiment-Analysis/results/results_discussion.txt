@@ -1,9 +1,0 @@
-Results Discussion
-==================
-
-The MLP model achieved a test accuracy of 0.78.
-
-Precision and recall are balanced across classes.
-Loss curves show steady convergence without overfitting.
-Performance is limited because only sentence-level lexicon features were used.
-More advanced representations such as TF-IDF or embeddings could improve performance.
