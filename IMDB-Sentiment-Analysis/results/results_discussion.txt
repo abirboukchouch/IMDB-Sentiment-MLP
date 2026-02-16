@@ -1,0 +1,8 @@
+Results Discussion
+
+Test Accuracy: 0.7690833921548855
+
+The model was implemented manually using forward pass,
+binary cross-entropy loss, backpropagation and gradient descent.
+The dataset is balanced and loss decreases steadily.
+Using only lexicon features limits performance.

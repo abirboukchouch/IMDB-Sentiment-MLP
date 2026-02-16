@@ -1,0 +1,17 @@
+Manual MLP 
+
+Test Accuracy: 0.7690833921548855
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.77      0.77      4939
+           1       0.77      0.76      0.77      4978
+
+    accuracy                           0.77      9917
+   macro avg       0.77      0.77      0.77      9917
+weighted avg       0.77      0.77      0.77      9917
+
+Confusion Matrix:
+[[3819 1120]
+ [1170 3808]]
